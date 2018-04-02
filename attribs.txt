@@ -1,0 +1,20 @@
+useful attributes 
+3	age
+4	sex
+5	painlocation
+6	painexer
+7	relrest
+9 (chest pain type) cp
+10	trestbp
+12	chol
+16	fbs
+32	thalach
+33	thalrest
+38	exang
+40	oldpeak
+41	slope
+51 (related to 44)	thal
+58 (observed result)	num
+
+
+required attributes
